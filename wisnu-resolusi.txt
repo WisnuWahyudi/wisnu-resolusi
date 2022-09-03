@@ -2,3 +2,5 @@ WISNU RESOLUSI
 - Refreshing materi-materi android development
 - meluluskan learning path Android Developer di Dicoding
 - ikut sertifikasi Associate Android Developer
+- ikut sertifikasi Associate Android Developer target di Tahun 2023
+- Dengan bahasa program Kotlin
