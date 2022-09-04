@@ -5,6 +5,8 @@ Judul: Aplikasi Media Pembelajaran Kuis Interaktif Tingkat SMA Berbasis Mobile A
 *Bahasa Program: Kotlin
  ^ Java
 *Arsitektur Pattern: MVP
- ^ MVC
+ ^ ok
+*Arsitektur Pattern: MVP
+ ^ MVVM
 *Associate Android Developer
 Status Artikel: review 
